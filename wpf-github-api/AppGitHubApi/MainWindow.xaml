@@ -1,0 +1,28 @@
+﻿<Window x:Class="AppGitHubApi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppGitHubApi"
+        mc:Ignorable="d"
+        Title="Busca de repositórios do GitHub" Height="350" Width="500" FontFamily="R" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <Grid>
+        <Label x:Name="login" Content="Login do GitHub" HorizontalAlignment="Left" Margin="22,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="LoginDoGitHub" HorizontalAlignment="Left" Margin="28,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="343"/>
+        <Label x:Name="senha" Content="Senha:&#xD;&#xA;" HorizontalAlignment="Left" Margin="28,63,0,0" VerticalAlignment="Top" Height="22"/>
+        <PasswordBox x:Name="SenhaDoGitHub" HorizontalAlignment="Left" Margin="28,88,0,0" VerticalAlignment="Top" Width="343" RenderTransformOrigin="0.28,1.222"/>
+        <Button x:Name="buttonLogar" Content="Logar" HorizontalAlignment="Left" Margin="394,88,0,0" VerticalAlignment="Top" Width="75" Click="LogarNoGitHub"/>
+        <Label x:Name="labelUsuarioGitHub" Content="Nome do usuário GitHub" HorizontalAlignment="Left" Margin="28,117,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <TextBox x:Name="NomeUsuarioGitHub" HorizontalAlignment="Left" Margin="28,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="343" Visibility="Hidden"/>
+        <Button x:Name="buttonBuscar" Content="Buscar" HorizontalAlignment="Left" Margin="394,141,0,0" VerticalAlignment="Top" Width="75" Visibility="Hidden" Click="BuscarPorRepositoriosDoUsuario"/>
+        <Label x:Name="labelListaDeRepositorios" Content="Lista de Repositórios" HorizontalAlignment="Left" Margin="28,177,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <DataGrid x:Name="dataGridRepositorios" HorizontalAlignment="Left" Margin="28,201,0,0" VerticalAlignment="Top" Height="97" Width="441" FrozenColumnCount="1" Visibility="Hidden" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Id}" ClipboardContentBinding="{x:Null}" Header="Id"/>
+                <DataGridTextColumn Binding="{Binding Nome}" ClipboardContentBinding="{x:Null}" Header="Nome"/>
+                <DataGridTextColumn Binding="{Binding Url}" ClipboardContentBinding="{x:Null}" Header="Url"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

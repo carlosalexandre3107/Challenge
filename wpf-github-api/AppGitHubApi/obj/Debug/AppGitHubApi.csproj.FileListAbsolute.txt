@@ -1,0 +1,30 @@
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\bin\Debug\AppGitHubApi.exe.config
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\bin\Debug\AppGitHubApi.exe
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\bin\Debug\AppGitHubApi.pdb
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\bin\Debug\Octokit.dll
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.csprojResolveAssemblyReference.cache
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\MainWindow.g.cs
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\App.g.cs
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi_MarkupCompile.cache
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi_MarkupCompile.lref
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\MainWindow.baml
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.g.resources
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.Properties.Resources.resources
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.csproj.GenerateResource.Cache
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.exe
+c:\users\carlos.alexandre\documents\visual studio 2015\Projects\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.pdb
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\bin\Debug\AppGitHubApi.exe.config
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\bin\Debug\AppGitHubApi.exe
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\bin\Debug\AppGitHubApi.pdb
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\bin\Debug\Octokit.dll
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\App.g.cs
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi_MarkupCompile.cache
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi_MarkupCompile.lref
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\MainWindow.baml
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.g.resources
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.Properties.Resources.resources
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.exe
+C:\Users\Administrador\Desktop\AppGitHubApi\AppGitHubApi\obj\Debug\AppGitHubApi.pdb
